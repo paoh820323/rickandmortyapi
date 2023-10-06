@@ -2,7 +2,7 @@
 
 The Rick and Morty Character Viewer is a React application that allows users to explore characters from the popular TV show "Rick and Morty." It utilizes the [Rick and Morty API](https://rickandmortyapi.com/documentation/#rest) to fetch character data and provides a user-friendly interface with pagination for easy navigation.
 
-## ** Installation **
+## **Installation**
 
 - Install project dependencies
 
